@@ -1,0 +1,11 @@
+C:\Users\igorb\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Users\igorb\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Users\igorb\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Users\igorb\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\igorb\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.lose.resources
+C:\Users\igorb\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\igorb\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.win.resources
+C:\Users\igorb\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\igorb\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+C:\Users\igorb\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+C:\Users\igorb\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb
